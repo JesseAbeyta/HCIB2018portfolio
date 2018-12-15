@@ -5,7 +5,7 @@ My name's Jesse Abeyta and I'm a sophomore CS student at WPI. I like working on 
 ---
 ## Design for Others
 Our first major project was to redesign a local website with a particular target demographic in mind. Lots of thought went into applying CARP design principles.  
-https://medium.com/@chad.j.underhill/redesigning-technocopias-mobile-website-for-adult-professionals-interested-in-digital-fabrication-e481e7ba7df4
+https://medium.com/@chad.j.underhill/redesigning-technocopias-mobile-website-for-adult-professionals-interested-in-digital-fabrication-e481e7ba7df4  
 ![Picture of Technocopia Website Redesign](technocopia.png)
 
 ## Design for Understanding
